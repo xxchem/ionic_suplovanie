@@ -1,0 +1,8 @@
+{
+  "name": "suplovanie",
+  "app_id": "a8f30ec1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
